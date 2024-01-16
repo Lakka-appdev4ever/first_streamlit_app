@@ -2,7 +2,9 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
 
-Omega & Blueberry Oatmeal
+BreaKfast Menu
+
+Omega 3 & Blueberry Oatmeal
 
 Kale, Spinach & Rocket Smoothie
 
